@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... all posible project
-- 🌱 I’m currently learning ... CRM and Mobile
-- 👯 I’m looking to collaborate on ... IT team of buy 
+- 🔭 We currently working on ... all posible project
+- 🌱 We currently learning ... CRM and Mobile
+- 👯 We looking to collaborate on ... IT team of buy 
 
